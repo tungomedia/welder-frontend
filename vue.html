@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="index.css" />
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  </head>
+  <body>
+    <div id="app">
+      <div v-for="item in items">
+        <h1>{{ item.course.t_title.nl_NL }}</h1>
+        <h4>{{ item.user.name }}</h4>
+        <hr />
+      </div>
+    </div>
+    <script src="./vue.js"></script>
+  </body>
+</html>
