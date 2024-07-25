@@ -1,21 +1,45 @@
-# WELDER frontend case
+# welder-frontend
 
-A manager needs insights about its members elearning progress. An elearning contains several steps and it's important for a manager to know what the progress is of each team member.
+This template should help get you started developing with Vue 3 in Vite.
 
-The example.png is showing the current situation:
+## Recommended IDE Setup
 
-![](/example.png)
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## The task: How would *you* visualize this?
+## Type Support for `.vue` Imports in TS
 
-There is an API available which returns information about every user/elearning(course) entry. The `data.json` file contains the result of this API.
+TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
 
-There is a Vue and React based example provided, but any framework is fine.
+## Customize configuration
 
-To start a simple webserver, run the following command from this directory:
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-`python3 -m http.server 8888`
+## Project Setup
 
-And then access the page through `http://localhost:8888/vue.html`
+```sh
+npm install
+```
 
-If you feel like extra data from the API would help you improve the UI, feel free to add hypothetical data and use it in the UI.
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Run Unit Tests with [Vitest](https://vitest.dev/)
+
+```sh
+npm run test:unit
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
