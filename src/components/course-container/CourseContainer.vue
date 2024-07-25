@@ -5,7 +5,12 @@
         {{ course.t_title.nl_NL }}
       </h3>
       <div class="self-end w-1/3 hidden lg:block">
-        <progress-bar :fill="averageProgress" />
+        <div class="flex">
+          <span class="pl-4 text-xs text-gray-500 hidden xl:inline"
+            >{{ course.users.length }} medewerkers</span
+          >
+          <progress-bar :fill="averageProgress" />
+        </div>
       </div>
     </div>
 
@@ -50,7 +55,7 @@
         </tbody>
       </table>
       <nav aria-label="Page navigation example" class="my-4 flex justify-center">
-        <pagination-container />
+        <pagination-container v-if="course.users.length > 4" />
       </nav>
     </div>
   </div>
