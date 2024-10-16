@@ -1,21 +1,33 @@
-# WELDER frontend case
+# welder-frontend
 
-A manager needs insights about its members elearning progress. An elearning contains several steps and it's important for a manager to know what the progress is of each team member.
+This template should help get you started developing with Vue 3 in Vite.
 
-The example.png is showing the current situation:
+## Project Setup
 
-![](/example.png)
+```sh
+npm install
+```
 
-## The task: How would *you* visualize this?
+### Compile and Hot-Reload for Development
 
-There is an API available which returns information about every user/elearning(course) entry. The `data.json` file contains the result of this API.
+```sh
+npm run dev
+```
 
-There is a Vue and React based example provided, but any framework is fine.
+### Type-Check, Compile and Minify for Production
 
-To start a simple webserver, run the following command from this directory:
+```sh
+npm run build
+```
 
-`python3 -m http.server 8888`
+### Run Unit Tests with [Vitest](https://vitest.dev/)
 
-And then access the page through `http://localhost:8888/vue.html`
+```sh
+npm run test:unit
+```
 
-If you feel like extra data from the API would help you improve the UI, feel free to add hypothetical data and use it in the UI.
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```

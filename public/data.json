@@ -1,0 +1,857 @@
+[
+    {
+        "completed_at": "2024-07-18T13:39:24.205497Z",
+        "user_id": 15447,
+        "course_id": 12573,
+        "id": 34261,
+        "created_at": "2024-07-18T13:26:37.526562Z",
+        "updated_at": "2024-07-18T13:39:24.206013Z",
+        "progress": 100.0,
+        "user": {
+            "id": 15447,
+            "name": "Kiki Vonk",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/16769/kiki.jpg"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "11. Objectives",
+                "nl_NL": "11. Doelstellingen",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>With the Objectives discussion module, you and your employees can keep a close eye on all individual, team and organizational objectives! You can set different types of objectives, which are prepared by the manager and the employee. This topic then comes up again during the conversation. In this e-learning we ensure that you become an objectives expert!</p>",
+                "nl_NL": "<p>Met de gespreksmodule Doelstellingen houd je samen met je medewerkers alle individuele-, team- en organisatiedoelstellingen scherp in het vizier! Je kunt verschillende type doelstellingen inrichten, die door de leidinggevende en de medewerker worden voorbereid. Tijdens het gesprek komt dit onderwerp vervolgens terug. In deze e-learning zorgen we ervoor dat jij een doelstellingen expert wordt!</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 12,
+            "auto_invite": "none",
+            "image_file_id": 888381,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12573,
+            "created_at": "2024-04-11T13:51:17.808454Z",
+            "updated_at": "2024-06-17T11:33:15.347313Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-07-18T13:20:59.243864Z",
+        "user_id": 15447,
+        "course_id": 12448,
+        "id": 34258,
+        "created_at": "2024-07-18T13:14:11.785837Z",
+        "updated_at": "2024-07-18T13:21:06.777198Z",
+        "progress": 100.0,
+        "user": {
+            "id": 15447,
+            "name": "Kiki Vonk",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/16769/kiki.jpg"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "10. Inspiration and tricks",
+                "nl_NL": "10. Inspiratie en handigheidjes",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>In this e-learning we will teach you a number of tricks and show you great inspiration from other companies.<br/> Simply because it always comes in handy!</p><ol><li> Characteristics</li><li> Menu &amp; header</li><li> Download app</li><li> Private messages</li><li> Newsletter</li></ol>",
+                "nl_NL": "<p>In deze e-learning leren we jullie een aantal handigheidjes en laten we jullie leuke inspiratie vanuit andere bedrijven zien.\u00a0<br/>Gewoon omdat dat altijd wel goed van pas komt!\u00a0</p><ol><li>Eigenschappen\u00a0</li><li>Menu &amp; header</li><li>Downloaden app\u00a0</li><li>Priv\u00e9berichten</li><li>Nieuwsbrief</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 11,
+            "auto_invite": "none",
+            "image_file_id": 877464,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12448,
+            "created_at": "2024-04-03T11:16:36.282868Z",
+            "updated_at": "2024-06-17T11:33:07.352211Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": null,
+        "user_id": 83613,
+        "course_id": 14025,
+        "id": 33442,
+        "created_at": "2024-07-05T13:39:43.744230Z",
+        "updated_at": "2024-07-16T12:33:17.422158Z",
+        "progress": 0.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "A.s.r. WELDER pension scheme",
+                "nl_NL": "a.s.r. Doenpensioenregeling WELDER",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>In this E-learning you will receive information about the WELDER pension scheme, which is administered by asr Doenpensioen.<br/> This gives you an idea of \u200b\u200bwhat has already been arranged for you and what you can still do to ensure a good pension.</p>",
+                "nl_NL": "<p>In deze E-learning krijg je informatie over de pensioenregeling van WELDER, die door a.s.r. Doenpensioen wordt uitgevoerd.<br/>Zo krijg je een beeld wat er al wel voor je wordt geregeld en wat je zelf nog kunt doen om voor een goed pensioen te zorgen.</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 0,
+            "auto_invite": "none",
+            "image_file_id": 1011351,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 14025,
+            "created_at": "2024-07-05T13:29:20.013273Z",
+            "updated_at": "2024-07-05T13:32:27.781820Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-07-03T15:13:39.273772Z",
+        "user_id": 57355,
+        "course_id": 12912,
+        "id": 33295,
+        "created_at": "2024-07-03T12:13:41.469280Z",
+        "updated_at": "2024-07-03T15:13:39.274420Z",
+        "progress": 100.0,
+        "user": {
+            "id": 57355,
+            "name": "Claudiu Codrea",
+            "custom_label": "Developer",
+            "avatar": {
+                "url": "/api/file/907208/portrait.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Meet our one and only employee guide: How To WELDER",
+                "nl_NL": "Maak kennis met onze enige echte personeelsgids: How To WELDER",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>This e-learning is intended as a first introduction to our staff guide: How To WELDER.<br/></p>",
+                "nl_NL": "<p>Deze e-learning is bedoeld als eerste kennismaking met onze personeelsgids: How To WELDER.\u00a0<br/>\u00a0</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 1,
+            "auto_invite": "schedule",
+            "image_file_id": 928645,
+            "schedule_id": 22030,
+            "company_id": 25,
+            "id": 12912,
+            "created_at": "2024-05-02T13:38:56.616399Z",
+            "updated_at": "2024-06-06T13:21:06.379972Z",
+            "start": "2024-05-12",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-05-28T08:05:26.231498Z",
+        "user_id": 83613,
+        "course_id": 12912,
+        "id": 31006,
+        "created_at": "2024-05-28T08:03:28.729737Z",
+        "updated_at": "2024-05-28T08:05:26.231961Z",
+        "progress": 100.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Meet our one and only employee guide: How To WELDER",
+                "nl_NL": "Maak kennis met onze enige echte personeelsgids: How To WELDER",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>This e-learning is intended as a first introduction to our staff guide: How To WELDER.<br/></p>",
+                "nl_NL": "<p>Deze e-learning is bedoeld als eerste kennismaking met onze personeelsgids: How To WELDER.\u00a0<br/>\u00a0</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 1,
+            "auto_invite": "schedule",
+            "image_file_id": 928645,
+            "schedule_id": 22030,
+            "company_id": 25,
+            "id": 12912,
+            "created_at": "2024-05-02T13:38:56.616399Z",
+            "updated_at": "2024-06-06T13:21:06.379972Z",
+            "start": "2024-05-12",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-05-28T07:48:11.871576Z",
+        "user_id": 8301,
+        "course_id": 12912,
+        "id": 31003,
+        "created_at": "2024-05-28T07:44:50.504173Z",
+        "updated_at": "2024-05-28T07:48:11.871990Z",
+        "progress": 100.0,
+        "user": {
+            "id": 8301,
+            "name": "Stefan Boenders",
+            "custom_label": "Developer",
+            "avatar": {
+                "url": "/api/file/813407/screenshot-from-2024-02-26-12-59-01.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Meet our one and only employee guide: How To WELDER",
+                "nl_NL": "Maak kennis met onze enige echte personeelsgids: How To WELDER",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>This e-learning is intended as a first introduction to our staff guide: How To WELDER.<br/></p>",
+                "nl_NL": "<p>Deze e-learning is bedoeld als eerste kennismaking met onze personeelsgids: How To WELDER.\u00a0<br/>\u00a0</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 1,
+            "auto_invite": "schedule",
+            "image_file_id": 928645,
+            "schedule_id": 22030,
+            "company_id": 25,
+            "id": 12912,
+            "created_at": "2024-05-02T13:38:56.616399Z",
+            "updated_at": "2024-06-06T13:21:06.379972Z",
+            "start": "2024-05-12",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-05-28T07:54:52.000847Z",
+        "user_id": 243432,
+        "course_id": 12912,
+        "id": 31000,
+        "created_at": "2024-05-28T07:39:23.378455Z",
+        "updated_at": "2024-05-28T07:54:52.001361Z",
+        "progress": 100.0,
+        "user": {
+            "id": 243432,
+            "name": "Sander Peters",
+            "custom_label": "Developer",
+            "avatar": {
+                "url": "/api/file/482527/avatar.png"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Meet our one and only employee guide: How To WELDER",
+                "nl_NL": "Maak kennis met onze enige echte personeelsgids: How To WELDER",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>This e-learning is intended as a first introduction to our staff guide: How To WELDER.<br/></p>",
+                "nl_NL": "<p>Deze e-learning is bedoeld als eerste kennismaking met onze personeelsgids: How To WELDER.\u00a0<br/>\u00a0</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 1,
+            "auto_invite": "schedule",
+            "image_file_id": 928645,
+            "schedule_id": 22030,
+            "company_id": 25,
+            "id": 12912,
+            "created_at": "2024-05-02T13:38:56.616399Z",
+            "updated_at": "2024-06-06T13:21:06.379972Z",
+            "start": "2024-05-12",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-06-25T12:52:27.859043Z",
+        "user_id": 9842,
+        "course_id": 12912,
+        "id": 30986,
+        "created_at": "2024-05-28T06:08:19.463403Z",
+        "updated_at": "2024-06-25T12:52:27.859740Z",
+        "progress": 100.0,
+        "user": {
+            "id": 9842,
+            "name": "Jeroen Jansen",
+            "custom_label": "Technisch Specialist",
+            "avatar": {
+                "url": "/api/file/906533/1000017910.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Meet our one and only employee guide: How To WELDER",
+                "nl_NL": "Maak kennis met onze enige echte personeelsgids: How To WELDER",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>This e-learning is intended as a first introduction to our staff guide: How To WELDER.<br/></p>",
+                "nl_NL": "<p>Deze e-learning is bedoeld als eerste kennismaking met onze personeelsgids: How To WELDER.\u00a0<br/>\u00a0</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 1,
+            "auto_invite": "schedule",
+            "image_file_id": 928645,
+            "schedule_id": 22030,
+            "company_id": 25,
+            "id": 12912,
+            "created_at": "2024-05-02T13:38:56.616399Z",
+            "updated_at": "2024-06-06T13:21:06.379972Z",
+            "start": "2024-05-12",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-04-18T15:02:27.078526Z",
+        "user_id": 9842,
+        "course_id": 12573,
+        "id": 28471,
+        "created_at": "2024-04-18T14:59:56.521136Z",
+        "updated_at": "2024-04-22T16:06:25.013784Z",
+        "progress": 100.0,
+        "user": {
+            "id": 9842,
+            "name": "Jeroen Jansen",
+            "custom_label": "Technisch Specialist",
+            "avatar": {
+                "url": "/api/file/906533/1000017910.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "11. Objectives",
+                "nl_NL": "11. Doelstellingen",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>With the Objectives discussion module, you and your employees can keep a close eye on all individual, team and organizational objectives! You can set different types of objectives, which are prepared by the manager and the employee. This topic then comes up again during the conversation. In this e-learning we ensure that you become an objectives expert!</p>",
+                "nl_NL": "<p>Met de gespreksmodule Doelstellingen houd je samen met je medewerkers alle individuele-, team- en organisatiedoelstellingen scherp in het vizier! Je kunt verschillende type doelstellingen inrichten, die door de leidinggevende en de medewerker worden voorbereid. Tijdens het gesprek komt dit onderwerp vervolgens terug. In deze e-learning zorgen we ervoor dat jij een doelstellingen expert wordt!</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 12,
+            "auto_invite": "none",
+            "image_file_id": 888381,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12573,
+            "created_at": "2024-04-11T13:51:17.808454Z",
+            "updated_at": "2024-06-17T11:33:15.347313Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-04-18T14:39:59.907578Z",
+        "user_id": 83613,
+        "course_id": 12573,
+        "id": 28467,
+        "created_at": "2024-04-18T14:32:59.086138Z",
+        "updated_at": "2024-04-18T14:39:59.907947Z",
+        "progress": 100.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "11. Objectives",
+                "nl_NL": "11. Doelstellingen",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>With the Objectives discussion module, you and your employees can keep a close eye on all individual, team and organizational objectives! You can set different types of objectives, which are prepared by the manager and the employee. This topic then comes up again during the conversation. In this e-learning we ensure that you become an objectives expert!</p>",
+                "nl_NL": "<p>Met de gespreksmodule Doelstellingen houd je samen met je medewerkers alle individuele-, team- en organisatiedoelstellingen scherp in het vizier! Je kunt verschillende type doelstellingen inrichten, die door de leidinggevende en de medewerker worden voorbereid. Tijdens het gesprek komt dit onderwerp vervolgens terug. In deze e-learning zorgen we ervoor dat jij een doelstellingen expert wordt!</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 12,
+            "auto_invite": "none",
+            "image_file_id": 888381,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12573,
+            "created_at": "2024-04-11T13:51:17.808454Z",
+            "updated_at": "2024-06-17T11:33:15.347313Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": null,
+        "user_id": 8301,
+        "course_id": 12353,
+        "id": 27589,
+        "created_at": "2024-04-08T07:40:07.998089Z",
+        "updated_at": null,
+        "progress": 6.666666666666667,
+        "user": {
+            "id": 8301,
+            "name": "Stefan Boenders",
+            "custom_label": "Developer",
+            "avatar": {
+                "url": "/api/file/813407/screenshot-from-2024-02-26-12-59-01.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Update MyCoach",
+                "nl_NL": "Update MyCoach",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>A short update on the progress of MyCoach (March 2024).</p>",
+                "nl_NL": "<p>Een korte update over de voortgang van MyCoach (maart 2024).</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 0,
+            "auto_invite": "none",
+            "image_file_id": null,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12353,
+            "created_at": "2024-03-26T17:34:28.382513Z",
+            "updated_at": "2024-03-27T11:57:25.699863Z",
+            "start": "2024-03-27",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-04-08T07:15:09.610750Z",
+        "user_id": 83613,
+        "course_id": 12448,
+        "id": 27582,
+        "created_at": "2024-04-08T07:13:10.561953Z",
+        "updated_at": "2024-04-08T07:15:09.611154Z",
+        "progress": 100.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "10. Inspiration and tricks",
+                "nl_NL": "10. Inspiratie en handigheidjes",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>In this e-learning we will teach you a number of tricks and show you great inspiration from other companies.<br/> Simply because it always comes in handy!</p><ol><li> Characteristics</li><li> Menu &amp; header</li><li> Download app</li><li> Private messages</li><li> Newsletter</li></ol>",
+                "nl_NL": "<p>In deze e-learning leren we jullie een aantal handigheidjes en laten we jullie leuke inspiratie vanuit andere bedrijven zien.\u00a0<br/>Gewoon omdat dat altijd wel goed van pas komt!\u00a0</p><ol><li>Eigenschappen\u00a0</li><li>Menu &amp; header</li><li>Downloaden app\u00a0</li><li>Priv\u00e9berichten</li><li>Nieuwsbrief</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 11,
+            "auto_invite": "none",
+            "image_file_id": 877464,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12448,
+            "created_at": "2024-04-03T11:16:36.282868Z",
+            "updated_at": "2024-06-17T11:33:07.352211Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-04-05T13:39:57.287079Z",
+        "user_id": 9842,
+        "course_id": 12448,
+        "id": 27488,
+        "created_at": "2024-04-05T13:37:31.804454Z",
+        "updated_at": "2024-04-05T13:39:57.287623Z",
+        "progress": 100.0,
+        "user": {
+            "id": 9842,
+            "name": "Jeroen Jansen",
+            "custom_label": "Technisch Specialist",
+            "avatar": {
+                "url": "/api/file/906533/1000017910.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "10. Inspiration and tricks",
+                "nl_NL": "10. Inspiratie en handigheidjes",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>In this e-learning we will teach you a number of tricks and show you great inspiration from other companies.<br/> Simply because it always comes in handy!</p><ol><li> Characteristics</li><li> Menu &amp; header</li><li> Download app</li><li> Private messages</li><li> Newsletter</li></ol>",
+                "nl_NL": "<p>In deze e-learning leren we jullie een aantal handigheidjes en laten we jullie leuke inspiratie vanuit andere bedrijven zien.\u00a0<br/>Gewoon omdat dat altijd wel goed van pas komt!\u00a0</p><ol><li>Eigenschappen\u00a0</li><li>Menu &amp; header</li><li>Downloaden app\u00a0</li><li>Priv\u00e9berichten</li><li>Nieuwsbrief</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 11,
+            "auto_invite": "none",
+            "image_file_id": 877464,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12448,
+            "created_at": "2024-04-03T11:16:36.282868Z",
+            "updated_at": "2024-06-17T11:33:07.352211Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-03-27T14:01:20.274746Z",
+        "user_id": 83613,
+        "course_id": 12353,
+        "id": 26942,
+        "created_at": "2024-03-27T13:59:52.805873Z",
+        "updated_at": "2024-03-27T14:01:20.275637Z",
+        "progress": 100.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Update MyCoach",
+                "nl_NL": "Update MyCoach",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>A short update on the progress of MyCoach (March 2024).</p>",
+                "nl_NL": "<p>Een korte update over de voortgang van MyCoach (maart 2024).</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 0,
+            "auto_invite": "none",
+            "image_file_id": null,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12353,
+            "created_at": "2024-03-26T17:34:28.382513Z",
+            "updated_at": "2024-03-27T11:57:25.699863Z",
+            "start": "2024-03-27",
+            "end": null
+        }
+    },
+    {
+        "completed_at": null,
+        "user_id": 9842,
+        "course_id": 12353,
+        "id": 26929,
+        "created_at": "2024-03-27T12:32:25.838094Z",
+        "updated_at": "2024-03-27T13:13:44.190814Z",
+        "progress": 0.0,
+        "user": {
+            "id": 9842,
+            "name": "Jeroen Jansen",
+            "custom_label": "Technisch Specialist",
+            "avatar": {
+                "url": "/api/file/906533/1000017910.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "Update MyCoach",
+                "nl_NL": "Update MyCoach",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>A short update on the progress of MyCoach (March 2024).</p>",
+                "nl_NL": "<p>Een korte update over de voortgang van MyCoach (maart 2024).</p>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 0,
+            "auto_invite": "none",
+            "image_file_id": null,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12353,
+            "created_at": "2024-03-26T17:34:28.382513Z",
+            "updated_at": "2024-03-27T11:57:25.699863Z",
+            "start": "2024-03-27",
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-03-22T07:55:04.609137Z",
+        "user_id": 83613,
+        "course_id": 12221,
+        "id": 26577,
+        "created_at": "2024-03-22T07:51:07.988370Z",
+        "updated_at": "2024-03-22T07:55:04.609497Z",
+        "progress": 100.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "9. Loyalty shop & Balance management",
+                "nl_NL": "9. Loyalty shop & Saldo beheer",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>Within your personal platform you have the option to set up a balance system. Users can then save points - for example by completing a certain e-learning course - and they can then exchange these points in the Loyalty Shop. Each ad has a price and when a user purchases an ad, it is deducted from the balance.</p><p> In this e-learning we discuss the following topics:</p><ol><li> Creating the Loyalty shop</li><li> Add tags to the Loyalty shop</li><li> Balance management</li><li> Milestones</li></ol>",
+                "nl_NL": "<p>Binnen je persoonlijke platform heb je de mogelijkheid om een saldosysteem in te richten. Gebruikers kunnen dan punten sparen - bijvoorbeeld door het afronden van een bepaalde e-learning - en deze punten kunnen zij vervolgens inwisselen in de Loyalty Shop. Elke advertentie kent een prijs en wanneer een gebruiker een advertentie aankoopt, gaat dit van het saldo af.</p><p>We bespreken in deze e-learning de volgende onderwerpen:</p><ol><li>Aanmaken van de Loyalty shop\u00a0</li><li>Tags toevoegen aan de Loyalty shop\u00a0</li><li>Saldo beheer\u00a0</li><li>Mijlpalen</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 10,
+            "auto_invite": "none",
+            "image_file_id": 866815,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12221,
+            "created_at": "2024-03-21T12:24:27.544593Z",
+            "updated_at": "2024-06-17T11:32:55.606979Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-03-21T20:39:38.210397Z",
+        "user_id": 9842,
+        "course_id": 12221,
+        "id": 26560,
+        "created_at": "2024-03-21T15:28:19.676249Z",
+        "updated_at": "2024-03-21T20:39:38.210896Z",
+        "progress": 100.0,
+        "user": {
+            "id": 9842,
+            "name": "Jeroen Jansen",
+            "custom_label": "Technisch Specialist",
+            "avatar": {
+                "url": "/api/file/906533/1000017910.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "9. Loyalty shop & Balance management",
+                "nl_NL": "9. Loyalty shop & Saldo beheer",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>Within your personal platform you have the option to set up a balance system. Users can then save points - for example by completing a certain e-learning course - and they can then exchange these points in the Loyalty Shop. Each ad has a price and when a user purchases an ad, it is deducted from the balance.</p><p> In this e-learning we discuss the following topics:</p><ol><li> Creating the Loyalty shop</li><li> Add tags to the Loyalty shop</li><li> Balance management</li><li> Milestones</li></ol>",
+                "nl_NL": "<p>Binnen je persoonlijke platform heb je de mogelijkheid om een saldosysteem in te richten. Gebruikers kunnen dan punten sparen - bijvoorbeeld door het afronden van een bepaalde e-learning - en deze punten kunnen zij vervolgens inwisselen in de Loyalty Shop. Elke advertentie kent een prijs en wanneer een gebruiker een advertentie aankoopt, gaat dit van het saldo af.</p><p>We bespreken in deze e-learning de volgende onderwerpen:</p><ol><li>Aanmaken van de Loyalty shop\u00a0</li><li>Tags toevoegen aan de Loyalty shop\u00a0</li><li>Saldo beheer\u00a0</li><li>Mijlpalen</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 10,
+            "auto_invite": "none",
+            "image_file_id": 866815,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 12221,
+            "created_at": "2024-03-21T12:24:27.544593Z",
+            "updated_at": "2024-06-17T11:32:55.606979Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-03-08T10:47:34.175348Z",
+        "user_id": 83613,
+        "course_id": 11922,
+        "id": 25726,
+        "created_at": "2024-03-08T10:43:44.202530Z",
+        "updated_at": "2024-03-08T10:47:34.175749Z",
+        "progress": 50.0,
+        "user": {
+            "id": 83613,
+            "name": "Niek Antonides",
+            "custom_label": "Accountmanager",
+            "avatar": {
+                "url": "/api/file/909401/portret-2024-bijgesneden.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "8. Settings & results of e-learnings/surveys",
+                "nl_NL": "8. Instellingen & resultaten van e-learnings/surveys",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>We all know it, the settings page of the e-learning or surveys, but do you know exactly what each setting means? What are the differences in access levels? Or, for example, what the important differences are between sending an invitation or &#39;just&#39; sharing a link?</p><p> We discuss the following topics in this phase:</p><ol><li> Difference in access levels</li><li> Advantages and disadvantages per access level</li><li> Error message for external users</li><li> Minimum score</li><li> Certificate</li><li> Results</li></ol>",
+                "nl_NL": "<p>We kennen &#x27;m allemaal, de instellingen pagina van de e-learnings of surveys, maar weet jij precies wat iedere instelling inhoudt? Wat de verschillen zijn in toegangsniveaus? Of wat bijvoorbeeld de belangrijke verschillen zijn tussen een uitnodiging versturen of &#x27;gewoon&#x27; een linkje delen?\u00a0</p><p>We bespreken in deze fase de volgende onderwerpen:</p><ol><li>Verschil in toegangsniveaus</li><li>Voor- en nadelen per toegangsniveau\u00a0</li><li>Foutmelding bij externe gebruikers\u00a0</li><li>Minimale score\u00a0</li><li>Certificaat\u00a0</li><li>Resultaten</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 9,
+            "auto_invite": "none",
+            "image_file_id": 866814,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 11922,
+            "created_at": "2024-03-06T11:02:49.022673Z",
+            "updated_at": "2024-06-17T11:32:51.168972Z",
+            "start": null,
+            "end": null
+        }
+    },
+    {
+        "completed_at": "2024-03-08T10:45:19.741205Z",
+        "user_id": 9842,
+        "course_id": 11922,
+        "id": 25725,
+        "created_at": "2024-03-08T10:41:23.614086Z",
+        "updated_at": "2024-03-08T10:45:19.741672Z",
+        "progress": 50.0,
+        "user": {
+            "id": 9842,
+            "name": "Jeroen Jansen",
+            "custom_label": "Technisch Specialist",
+            "avatar": {
+                "url": "/api/file/906533/1000017910.webp"
+            }
+        },
+        "course": {
+            "deleted_at": null,
+            "t_title": {
+                "en_GB": "8. Settings & results of e-learnings/surveys",
+                "nl_NL": "8. Instellingen & resultaten van e-learnings/surveys",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "t_description": {
+                "en_GB": "<p>We all know it, the settings page of the e-learning or surveys, but do you know exactly what each setting means? What are the differences in access levels? Or, for example, what the important differences are between sending an invitation or &#39;just&#39; sharing a link?</p><p> We discuss the following topics in this phase:</p><ol><li> Difference in access levels</li><li> Advantages and disadvantages per access level</li><li> Error message for external users</li><li> Minimum score</li><li> Certificate</li><li> Results</li></ol>",
+                "nl_NL": "<p>We kennen &#x27;m allemaal, de instellingen pagina van de e-learnings of surveys, maar weet jij precies wat iedere instelling inhoudt? Wat de verschillen zijn in toegangsniveaus? Of wat bijvoorbeeld de belangrijke verschillen zijn tussen een uitnodiging versturen of &#x27;gewoon&#x27; een linkje delen?\u00a0</p><p>We bespreken in deze fase de volgende onderwerpen:</p><ol><li>Verschil in toegangsniveaus</li><li>Voor- en nadelen per toegangsniveau\u00a0</li><li>Foutmelding bij externe gebruikers\u00a0</li><li>Minimale score\u00a0</li><li>Certificaat\u00a0</li><li>Resultaten</li></ol>",
+                "__auto_translate": {
+                    "en_GB": true
+                }
+            },
+            "type": "elearning",
+            "position": 9,
+            "auto_invite": "none",
+            "image_file_id": 866814,
+            "schedule_id": null,
+            "company_id": 25,
+            "id": 11922,
+            "created_at": "2024-03-06T11:02:49.022673Z",
+            "updated_at": "2024-06-17T11:32:51.168972Z",
+            "start": null,
+            "end": null
+        }
+    }
+]
